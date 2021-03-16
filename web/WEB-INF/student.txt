@@ -1,0 +1,11 @@
+QuizHomePage
+takeQuizPage
+startQuiz
+quizController
+quizPage
+finishQuiz
+resultPage
+showHistory
+historyPage
+showDetail
+historyDetailPage
