@@ -1,3 +1,4 @@
+# Welcome to Lab_2( Quiz_Online) repository. 
 ## This web project is Quiz Online.
 ### Includes basic functions:
 ### - Student: Registration, Login, Do quiz, View history
